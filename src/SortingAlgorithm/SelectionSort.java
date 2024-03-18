@@ -16,7 +16,6 @@ public class SelectionSort {
             a[min]=a[i];
             a[i]=temp;
         }
-
     }
 
     public static void main(String[] args) {
@@ -34,5 +33,4 @@ public class SelectionSort {
             System.out.print(a[i]+" ");
         }
     }
-
 }
